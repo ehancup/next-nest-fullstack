@@ -1,0 +1,12 @@
+{
+  "name": "next-nest",
+  "version": "1.0.0",
+  "description": "next nest auth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "npm run start:dev --prefix backend"
+  },
+  "author": "ehancup",
+  "license": "ISC"
+}
